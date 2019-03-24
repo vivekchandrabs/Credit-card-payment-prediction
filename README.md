@@ -46,8 +46,9 @@ This research aimed at the case of customers default payments in Taiwan and comp
 
 ## Models trained on:
 
-  Logistic regression. 
-  Logistic regression using sklearn.
+* Logistic regression
+  
+* Logistic regression using sklearn
 
 
 
