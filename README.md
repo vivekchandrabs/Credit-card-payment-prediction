@@ -2,7 +2,7 @@
 
 This research aimed at the case of customersâ€™ default payments in Taiwan and compares the predictive accuracy of probability of default among six data mining methods. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients.
 
-## Install
+## Install:
 
 * Numpy
 * Pandas 
@@ -21,7 +21,7 @@ Template code for the sk-learn implementation is provided in the “credit card 
 
 Also include the data set “default of credit card clients.xls” while running the code.
 
-## Run
+## Run:
 
 In a anaconda promt or in the  terminal, navigate to the top-level project directory and run one of the following commands:
 
@@ -31,10 +31,12 @@ In a anaconda promt or in the  terminal, navigate to the top-level project direc
 
 This will open the Jupyter Notebook software and project file in your browser.
 
-## Dataset information
+## Dataset information:
+
 This research aimed at the case of customers default payments in Taiwan and compares the predictive accuracy of probability of default among six data mining methods. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients. Because the real probability of default is unknown, this study presented the novel Sorting Smoothing Method to estimate the real probability of default. With the real probability of default as the response variable (Y), and the predictive probability of default as the independent variable (X), the simple linear regression result (Y = A + BX) shows that the forecasting model produced by artificial neural network has the highest coefficient of determination; its regression intercept (A) is close to zero, and regression coefficient (B) to one. Therefore, among the six data mining techniques, artificial neural network is the only one that can accurately estimate the real probability of default.
 
 ## Attribute Information:
+
 * X1: Amount of the given credit (NT dollar)
 * X2: Gender (1 = male; 2 = female). 
 * X3: Education (1 = graduate school; 2 = university; 3 = high school; 4 = others)
