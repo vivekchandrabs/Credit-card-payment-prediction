@@ -1,6 +1,6 @@
 # Credit-card-payment-prediction
 
-This research aimed at the case of customersâ€™ default payments in Taiwan and compares the predictive accuracy of probability of default among six data mining methods. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients.
+This research aimed at the case of customers default payments in Taiwan and compares the predictive accuracy of probability of default among six data mining methods. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients.
 
 ## Install:
 
@@ -17,13 +17,13 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 Template code is provided in the “credit card payment prediction-raw-code.ipynb” inside the code folder. This is by using the raw code implementation. 
 
-Template code for the sk-learn implementation is provided in the “credit card payment prediction-sklearn.ipynb” inside the code folder.
+Template code for the sklearn implementation is provided in the “credit card payment prediction-sklearn.ipynb” inside the code folder.
 
 Also include the data set “default of credit card clients.xls” while running the code.
 
 ## Run:
 
-In a anaconda promt or in the  terminal, navigate to the top-level project directory and run one of the following commands:
+In a anaconda promt or in the  terminal, navigate to the code folder and run one of the following commands:
 
       jupter notebook "credit card payment prediction-raw-code.ipynb"
 
