@@ -25,7 +25,7 @@ Also include the data set “default of credit card clients.xls” while running
 
 In a anaconda promt or in the  terminal, navigate to the code folder and run one of the following commands:
 
-      jupter notebook "credit card payment prediction-raw-code.ipynb"
+      jupyter notebook "credit card payment prediction-raw-code.ipynb"
 
       jupyter notebook "credit card payment prediction-sklearn.ipynb"
 
